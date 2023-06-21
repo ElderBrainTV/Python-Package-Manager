@@ -20,9 +20,9 @@ The Pip Package Updater is a Python application that provides a GUI for upgradin
 
 1. Clone the repository:
 
-   ```
-   git clone https://github.com/your-username/pip-package-updater.git
-   ```
+```
+git clone https://github.com/ElderBrainTV/Pip-Package-Updater.git
+```
 
 2. Change to the repository directory:
 
@@ -48,4 +48,4 @@ The application logs events and errors to the app.log file in the repository. Yo
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT LICENSE.
