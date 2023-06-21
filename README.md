@@ -1,6 +1,6 @@
 # Pip Package Updater
 
-The Pip Package Updater is a Python application that provides a GUI for upgrading Python packages installed via pip, creating backups of the package list, and restoring packages from a backup file.
+The Pip Package Updater is a Python application that provides a graphical user interface (GUI) for upgrading Python packages installed via pip, creating backups of the package list, and restoring packages from a backup file.
 
 ## Features
 
@@ -20,7 +20,7 @@ The Pip Package Updater is a Python application that provides a GUI for upgradin
 
 1. Clone the repository:
 
-```
+```bash
 git clone https://github.com/ElderBrainTV/Pip-Package-Updater.git
 ```
 
@@ -40,12 +40,15 @@ python main.py
 ```
 5.The GUI window will appear, allowing you to select packages for upgrade, choose upgrade mode, and perform backup and restore operations.
 
+
 ## Logging
 
-The application logs events and errors to the app.log file in the repository. You can refer to this log file for troubleshooting or debugging purposes.
+The application logs events and errors to the `app.log` file in the repository. You can refer to this log file for troubleshooting or debugging purposes.
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
 ## License
 
-This project is licensed under the MIT LICENSE.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
