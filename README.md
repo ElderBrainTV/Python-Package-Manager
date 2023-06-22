@@ -26,7 +26,6 @@ This program provides a graphical user interface for managing Python packages. W
     - Control-b: Backup packages
     - Control-r: Restore packages
 
-Finished Job.png
 ![Finished Job.png](https://github.com/ElderBrainTV/Pip-Package-Updater/blob/125ec645854b9211312ba2436a77919f8027e828/Finished%20Job.png "Finished Job")
 ## Requirements
 
