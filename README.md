@@ -1,4 +1,4 @@
-# Pip Package Upgrader
+# Python Package Manager
 
 This program provides a graphical user interface for managing Python packages. With it, you can easily update, backup, and restore Python packages. 
 
